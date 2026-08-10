@@ -1,0 +1,15 @@
+--------------------------------
+After Writing 4 Values
+FULL  = 1
+EMPTY = 0
+--------------------------------
+Read Data = 10
+Read Data = 20
+Read Data = 30
+Read Data = 40
+--------------------------------
+After Reading All Values
+FULL  = 0
+EMPTY = 1
+--------------------------------
+Simulation Completed
